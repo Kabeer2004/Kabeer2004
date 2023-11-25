@@ -1,3 +1,4 @@
+[![Kabeer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kabeer2004)](https://github.com/anuraghazra/github-readme-stats)
 - 👋 Hi, I’m @Kabeer2004 (Certified Nerd)
 - 📽️ Host @ Kabeer2004 [https://www.youtube.com/Kabeer2004]
 - 👀 I’m interested in ANYTHING Python related (or even anything computer related).
