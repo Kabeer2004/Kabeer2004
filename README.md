@@ -3,7 +3,7 @@
 - 📽️ Host @ Kabeer2004 [https://www.youtube.com/Kabeer2004]
 - 👀 I’m interested in ANYTHING Python related (or even anything computer related).
 - 🌱 I’m currently learning Python. I would consider myself a beginner - intermediate level Python programmer. My other skills include Unreal Engine, Kali Linux (along with experience with various cybersec tools) and video editing.
-- I am learning Python because of its various applications in the field of machine learning and data science - a field that i am very interested in pursuing. So, I wish to apply my Python skills to ML problems.
+(I am learning Python because of its various applications in the field of machine learning and data science - a field that i am very interested in pursuing.)
 - 💀 My hobbies include playing Cyberpunk 2077 (definitely Game of the Year lol) along with a recently growing obsession with gymming and the martial art Yongmoodo. i have also dabbled in music production and i am fluent with Premiere Pro which i use to edit videos for my YT channel. I am also currently studying Japanese (日本語) - i find the language and Japanese culture very interesting + Japan is the home to some of the greatest technological innovations of our time so it is a dream of mine to work there one day.
 - 💞️ I’m looking to collaborate on ML Projects, YOUTUBE VIDEOS, general help on programming, game development or anything computer related. (if i dont know about it, i would be glad to learn it with you 🙂)
 - 📫 How to reach me: you can reach me on Discord at kabeer2004 or on LinkedIn [www.linkedin.com/in/kabeer-ahmed-merchant]
