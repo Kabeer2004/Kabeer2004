@@ -7,9 +7,11 @@
 - 💞️ I’m looking to collaborate on ML Projects, YOUTUBE VIDEOS, general help on programming, game development or anything computer related. (if i dont know about it, i would be glad to learn it with you 🙂)
 - 📫 How to reach me: you can reach me on Discord at kabeer2004 or on LinkedIn [www.linkedin.com/in/kabeer-ahmed-merchant]
 
+<p align="center">
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=py,tensorflow,cpp,java,mysql,html,css,js,php,flask,pr,ps,replit,vim,vscode,github,unreal,blender,linux,linkedin,discord,arduino,figma,instagram,md&perline=7" />
 </a>
+</p>
 
 
   [![Kabeer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kabeer2004)](https://github.com/anuraghazra/github-readme-stats)
