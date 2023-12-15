@@ -7,13 +7,12 @@
 - 💞️ I’m looking to collaborate on ML Projects, YOUTUBE VIDEOS, general help on programming, game development or anything computer related. (if i dont know about it, i would be glad to learn it with you 🙂)
 - 📫 How to reach me: you can reach me on Discord at kabeer2004 or on LinkedIn [www.linkedin.com/in/kabeer-ahmed-merchant]
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,tensorflow,cpp,java,mysql,html,css,js,php,flask,pr,ps,replit,vim,vscode,github,unreal,blender,linux,linkedin,discord,arduino,figma,instagram,md&perline=7" />
-  </a>
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,cpp,java,mysql,html,css,js,php,flask,pr,ps,replit,vim,vscode,github,unreal,blender,linux,linkedin,discord,arduino,figma,instagram,md&perline=7" />
+</a>
 
-  [![Kabeer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kabeer2004)](https://github.com/anuraghazra/github-readme-stats)          
+
+  [![Kabeer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kabeer2004)](https://github.com/anuraghazra/github-readme-stats)
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=p32wvs54rqizg81n6m9ffsiwg&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 <!---
