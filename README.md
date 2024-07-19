@@ -16,7 +16,7 @@
 
 
   [![Kabeer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kabeer2004)](https://github.com/anuraghazra/github-readme-stats)
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=p32wvs54rqizg81n6m9ffsiwg&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=p32wvs54rqizg81n6m9ffsiwg&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 <!---
 Kabeer2004/Kabeer2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
